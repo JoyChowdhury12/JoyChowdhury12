@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joychowdhury12&label=Profile%20views&color=0e75b6&style=flat" alt="joychowdhury12" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently using **Flutter** for making real life projects
 
 - 💬 Ask me about **Android and ios**
 
